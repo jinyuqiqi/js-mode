@@ -97,3 +97,4 @@ for (let i = 1; i < 15; i++) {
     modelManager.copy(femaleModel, i);
     femaleModel.takephoto();
 }
+console.log(femalModel)
